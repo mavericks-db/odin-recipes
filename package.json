@@ -1,0 +1,29 @@
+{
+  "name": "odin-recipes",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/mavericks-db/odin-recipes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mavericks-db/odin-recipes.git"
+  },
+  "author": "Mavericks Balitaan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mavericks-db/odin-recipes/issues"
+  },
+  "homepage": "https://github.com/mavericks-db/odin-recipes#readme",
+  "devDependencies": {
+    "hint": "^6.1.12",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  },
+  "dependencies": {
+    "sass": "^1.51.0"
+  }
+}

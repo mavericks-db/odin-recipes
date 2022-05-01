@@ -1,37 +1,95 @@
-## Welcome to GitHub Pages
+![](https://img.shields.io/badge/The_Odin_Project-e3b261)
 
-You can use the [editor on GitHub](https://github.com/mavericks-db/odin-recipes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Odin-Recipes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> This is the first project I created when I started learning how to code. This repo is a reminder to me that learning starts from small steps.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Built With
 
-```markdown
-Syntax highlighted code block
+- [x] Languages: HTML and Sass
+- [x] Linters: Lighthouse, Webhint, and Stylelint
+- [x] Code Editor: VS Code
 
-# Header 1
-## Header 2
-### Header 3
+## Website Mockup 📱 💻 🖥️
+![all-devices-black](https://user-images.githubusercontent.com/98527559/166161290-d26eba7f-d8ec-453e-8119-304619dccc01.png)
 
-- Bulleted
-- List
+## Screenshots 📸
+Screenshots can be found in the repository.
 
-1. Numbered
-2. List
+## Live Demo 🔗
 
-**Bold** and _Italic_ and `Code` text
+Check the live demo [here](https://mavericks-db.github.io/odin-recipes/)👈
 
-[Link](url) and ![Image](src)
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+- [x] A web browser like Google Chrome.
+- [x] A code editor like Visual Studio Code with Git and Node.js.
+
+You can check if Git is installed by running the following command in the terminal.
+```
+$ git --version
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Likewise for Node.js and npm for package installation.
+```
+$ node --version && npm --version
+```
 
-### Jekyll Themes
+### Setup
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mavericks-db/odin-recipes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Clone the repository using the GitHub link provided below.
 
-### Support or Contact
+### Install
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In the terminal, go to your file directory and run this command.
+
+```
+$ git clone git@github.com:mavericks-db/odin-recipes.git
+```
+
+### Usage
+
+Kindly modify the files as needed.
+
+### Run tests
+
+To check for linters, use the files provided by [Microverse](https://github.com/microverseinc/linters-config). A GitHub action is also set to run during pull request.
+```
+$ npm install
+```
+
+### Deployment
+
+This app is deployed in the GitHub Pages for easy viewing upon merged on the main branch.
+Please find the link in the Live Demo section.
+
+
+## Authors
+
+👤 **Mavericks Balitaan** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
+
+  [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db) [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/mavericks_db) [![Facebook Badge](https://img.shields.io/badge/-mavericksdb-white?logo=Facebook&logoColor=1877F2&style=plastic)](https://www.facebook.com/mavericksdb/) [![LinkedIn Badge](https://img.shields.io/badge/-mavericks--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/mavericks-db/) [![Gmail Badge](https://img.shields.io/badge/-@balitaanmavericks-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:balitaanmavericks@gmail.com)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/mavericks-db/odin-recipes/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- [The Odin Project](https://www.theodinproject.com/)
+- [Microverse](https://www.microverse.org/)
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
